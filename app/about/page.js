@@ -8,7 +8,7 @@ const About = () => {
       <div className="flex flex-col md:flex-row items-center justify-between">
         <div className="md:w-1/2 mb-8 md:mb-0">
           <Image
-            src="/profile.jpg"
+            src="/profile.JPG"
             alt="Aditya Mishra"
             width={400}
             height={400}
